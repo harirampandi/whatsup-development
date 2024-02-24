@@ -12,3 +12,7 @@ AUTHOR:HARIRAM
 4.attachments(Image,video,audio)code
 
 5.hidding the last seen
+
+6. adding the audio call features
+
+7.adding the video call features
