@@ -10,3 +10,5 @@ AUTHOR:HARIRAM
 3.Last seen code
 
 4.attachments(Image,video,audio)code
+
+5.hidding the last seen
